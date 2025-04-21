@@ -1,0 +1,9 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+        // Write your code here 💖
+        System.out.println(" First you boil water then you add your pasta\n and let it cook for 9mins");
+        System.out.println(" Second you empty your pasta into a oven plate\n and add some bechamel and cheese to it");
+        System.out.println(" Third put the plate in the oven or makeoave\n and let it cook for few mins until the cheese melt");
+        System.out.println(" Last enjoy ur meal of mac and cheese!!!");
+    }
+}
