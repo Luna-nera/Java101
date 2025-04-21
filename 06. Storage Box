@@ -1,0 +1,11 @@
+public class HelloWorld {
+    public static void main(String[] args) {
+    int livingRoomBox = 15;
+    int masterBedroomBox = 45;
+    int bathroom = 10;
+    System.out.println(" The Living Room box has " + livingRoomBox + " items");
+    System.out.println(" The Master Bedroom box has " + masterBedroomBox + " items");
+    System.out.println(" The Living Room box has " + bathroom + " items");
+        
+    }
+}
