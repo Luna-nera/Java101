@@ -1,0 +1,13 @@
+import java.util.Scanner;
+public class HelloWorld {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+            System.out.println("Check your oatmael? do you have some?");
+        int oats = scanner.nextInt();
+        if (oats > 0) {
+            System.out.println("Let's make oatmeal today!");
+        }else{
+            System.out.println("Let's make Eggs!!!");
+        }
+    } 
+}
