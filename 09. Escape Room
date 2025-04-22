@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class HelloWorld {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("We have the following escape room clue we need to solve");
+        System.out.println("I speak without a mouth and hear without ears.\nI have no body, but I come alive with the wind.\nWhat am I?");
+        String riddle = scanner.nextLine();
+        System.out.println("The answer is Eco");
+
+    }
+}
